@@ -1,2 +1,2 @@
 # Checker-Pattern
-##Checker Pattern of chess and football##
+## Checker Pattern of chess and football ##
